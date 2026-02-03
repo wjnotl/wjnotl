@@ -4,7 +4,7 @@ I'm a developer passionate about web development, game development, and automati
 ## 💻 Skills
 - Web Development: Node.js, ASP.NET (C# MVC)
 - Database: MySQL, EF Core
-- Scripting & Automation: JavaScript userscripts
+- Scripting & Automation: JavaScript userscripts, Python/Node.js selenium
 - Game Development: Canvas, WebSocket
 
 ## 📫 Contact

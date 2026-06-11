@@ -2,10 +2,11 @@
 I'm a developer passionate about web development, game development, and automation scripting.
 
 ## Skills
-- Web Development: Node.js, Express, Typescript, Nuxt, Vue, ASP.NET
+- Web Development: Node.js, Express, Typescript, Nuxt, Vue, ASP.NET Core, 
 - Database: MySQL, EF Core, Prisma
 - Scripting & Automation: JavaScript userscripts, Python/Node.js selenium
 - Game Development: Canvas, WebSocket
+- Software Development: C# Winforms, C# MAUI
 
 ## Contact
 - [GitHub](https://github.com/wjnotl)

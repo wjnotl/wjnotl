@@ -1,4 +1,4 @@
-# Hi, I'm Liew Wen Jing
+## About Me
 I'm a developer passionate about web development, game development, and automation scripting.
 
 ## Skills
